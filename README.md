@@ -1,6 +1,6 @@
 ## Hi there 👋 am Samuel Waturu
 
-**- 🌱 I’m currently learning backend technologies**
+**- 🌱 I’m currently working on AI stuff**
 
 **- 📫 How to reach me: [Reach out](mailto:gytherandom@gmail.com)**
 
