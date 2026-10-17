@@ -1,8 +1,5 @@
-## Hi there 👋 am Samuel Waturu
+## Hi there am Samm
 
-**- 🌱 I’m currently working on AI stuff**
-
-**- 📫 How to reach me: [Reach out](mailto:gytherandom@gmail.com)**
 
 <!--
 **samm-waturu/samm-waturu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
